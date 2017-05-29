@@ -1,1 +1,3 @@
 # SkripsiHadist
+
+Kecerdasan buatan untuk aplikasi pentafsiran hadist menggunakan metode...
