@@ -1,3 +1,3 @@
-# SkripsiHadist
+# Project_Diagraph_TIJ
 
-Kecerdasan buatan untuk aplikasi pentafsiran hadist menggunakan metode...
+Project Send data to Diagraph TIJ, Getbufferdata and Cycle buffer data
